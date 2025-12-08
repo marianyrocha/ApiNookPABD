@@ -1,0 +1,40 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+Logs/
+log/
+
+# User files
+*.user
+*.suo
+*.env
+
+# ASP.NET Core sensitive configs
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+
+# Packages
+*.nupkg
+packages/
+
+# Publish
+publish/
+*.pubxml
+*.publishsettings
+
+# Cache
+*.pidb
+*.pdb
+*.dbmdl
+
+# Others
+Thumbs.db
+.DS_Store
+
